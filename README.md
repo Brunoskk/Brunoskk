@@ -1,16 +1,14 @@
-Bruno Vinicius :man_technologist:
+# Bruno Vinicius :alien::rocket:
 
-<!--
-**Brunoskk/Brunoskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! ✌️ Welcome to my profile
 
-Here are some ideas to get you started:
+I'm back-end developer and enthusiastic of JavaScript😆! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Nodejs, ReactJs, ReactNative, Flutter.
+- 📚 Currently learning Python, TypeScript and improving my skills
+- 😄 Love so much play games and programming
+
+
+[![Github Badge](https://img.shields.io/badge/-Brunoskk-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Brunoskk)](https://github.com/Brunoskk)
+[![Linkedin Badge](https://img.shields.io/badge/-Brunoskk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-vinicius-74436939/)](https://www.linkedin.com/in/bruno-vinicius-74436939/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:themaximusgames@gmail.com)](mailto:themaximusgames@gmail.com)
