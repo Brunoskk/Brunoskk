@@ -4,7 +4,7 @@
 
 I'm back-end developer and enthusiastic of JavaScript😆! 
 
-- 📌 Skills: Backend Developer Pleno | NodeJs | NestJs | TypeScript | AWS | SQL | Javascript | SCRUM | Docker | Microservices |
+- 📌 Skills: | NodeJs | NestJs | TypeScript | AWS | SQL | Javascript | SCRUM | Docker | Microservices |
 - 📚 Currently learning AWS cloud and improving my skills
 - 😄 Love so much play games and programming
 
