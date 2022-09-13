@@ -4,8 +4,8 @@
 
 I'm back-end developer and enthusiastic of JavaScript😆! 
 
-- 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Nodejs, ReactJs, ReactNative, Flutter.
-- 📚 Currently learning Python, TypeScript and improving my skills
+- 📌 Skills: Backend Developer Pleno | NodeJs | NestJs | TypeScript | AWS | SQL | Javascript | SCRUM | Docker | Microservices |
+- 📚 Currently learning AWS cloud and improving my skills
 - 😄 Love so much play games and programming
 
 
